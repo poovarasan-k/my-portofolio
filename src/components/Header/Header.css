@@ -1,0 +1,9 @@
+.navbar-toggler{
+    border : none !important
+}
+.navbar-toggler:focus{
+    box-shadow : none !important;
+}
+.nav-item {
+    cursor: pointer;
+}

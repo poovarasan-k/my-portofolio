@@ -1,0 +1,16 @@
+/* ********** Skills ********* */
+.Skills{
+    font-size: 16px;
+    margin-top: 2rem;
+    padding: 1rem;
+  }
+
+  /*************For Mobiles******************/
+@media only screen and (max-width: 600px) {
+  /* ********** About ********* */
+.Skills{
+    font-size: 16px;
+    margin-top: 2rem;
+    padding: 0;
+  }
+  }

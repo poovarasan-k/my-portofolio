@@ -1,0 +1,21 @@
+/* ********** Skills ********* */
+.Resume{
+    font-size: 16px;
+    margin-top: 2rem;
+    padding: 1rem;
+  }
+  .btn-primary {
+    color: #fff !important;
+    background-color: #2f2e3a !important;
+    border-color: #6c63ff !important;
+}
+
+  /*************For Mobiles******************/
+@media only screen and (max-width: 600px) {
+  /* ********** About ********* */
+.Resume{
+    font-size: 16px;
+    margin-top: 2rem;
+    padding: 0;
+  }
+}
